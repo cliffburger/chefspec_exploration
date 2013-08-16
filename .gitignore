@@ -1,0 +1,6 @@
+.idea
+
+# Bundler
+Gemfile.lock
+bin/*
+.bundle/*
